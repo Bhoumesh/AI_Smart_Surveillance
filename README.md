@@ -31,4 +31,4 @@ Detected motion and human presence are highlighted with bounding boxes. Images a
 - Educational computer vision project
 
 ## Author
-Bhomesh Kr Dutta
+Bhoumesh Kr Dutta
