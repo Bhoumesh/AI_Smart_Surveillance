@@ -32,3 +32,4 @@ Detected motion and human presence are highlighted with bounding boxes. Images a
 
 ## Author
 Bhoumesh Kr Dutta
+bhoumeshdutta@gmail.com
